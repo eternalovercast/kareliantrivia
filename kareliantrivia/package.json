@@ -1,0 +1,9 @@
+{
+  "name": "kareliantrivia",
+  "version": "0.0.0",
+  "description": "kareliantrivia",
+  "main": "app.js",
+  "author": {
+    "name": "eternalovercast / Karelia"
+  }
+}
